@@ -331,7 +331,7 @@ pip install torch flask
  
 9. 技术栈
  
-- AI 核心：AutoMoEBox（自进化轻量 MoE）
+- AI 核心：AutoMoEBox（自进化轻量 MoE）（https://github.com/baishuiyuan/AutoMoEBox）
 - 模型框架：PyTorch
 - Web 服务：Flask
 - 通信协议：MCP 标准接口
